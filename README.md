@@ -83,7 +83,7 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 
 <br>
 
-## [All](android-studio-ux-assets/README.md)
+## [All](all/README.md)
 
 - AOSP + Android Developers + Android Studio.
 

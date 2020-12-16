@@ -87,7 +87,7 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 
 - Title: All
 
-- Asset Count: 5195
+- Asset Count: 5125
 
 - [**See all assets**](all/README.md)
 

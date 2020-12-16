@@ -53,6 +53,8 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 
 - [**See all AOSP assets**](aosp/README.md)
 
+<br>
+
 ## [Android Developers](android-developer/README.md)
 
 - Title: Android Developers
@@ -62,6 +64,8 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 - Asset Count: 2416
 
 - [**See all Android Developers assets**](android-developer/README.md)
+
+<br>
 
 ## [Android Studio](android-studio-ux-assets/README.md)
 
@@ -76,6 +80,16 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 - Asset Count: 1519
 
 - [**See all Android Studio assets**](android-studio-ux-assets/README.md)
+
+<br>
+
+## [All](android-studio-ux-assets/README.md)
+
+- Title: All
+
+- Asset Count: 5195
+
+- [**See all assets**](all/README.md)
 
 <br>
 

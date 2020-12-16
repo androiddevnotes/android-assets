@@ -1,3 +1,34 @@
+<h1 align="center">Android Assets</h1></br>
+
+<p align="center">
+:eyeglasses: An extensive collection of Android Assets for Android Studio, AOSP and Android Developer documentation.
+</p>
+<br>
+
+<p align="center">
+  <a href="#"><img alt="Android Assets Count badge" src="https://badgen.net/badge/Apps/5125?color=0984e3"/></a>
+  <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/android.svg&color=3ddc84"/></a>
+  <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
+</p>
+
+<br>
+
+<p align="center">
+<img src="assets/android-assets.png" alt="android assets banner"></img>
+</p>
+
+<br>
+
+**Android Assets** aims to be your starting point to find all the official assets from Android Developer sites: [Android Studio](https://developer.android.com/studio), [Android Open Source Project](https://source.android.com/), and [Android Developers](https://developer.android.com/)
+
+Assets include PNG, JPG, SVG, GIF, WEBP files for now.
+
+The repository was created to see the entire catalog of Android Assets used in the official documentation. There are some few many hidden gems.
+
+Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [regex](https://en.wikipedia.org/wiki/Regular_expression), [git](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/), [paste](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#:~:text=paste%20writes%20to%20standard%20output,no%20input%20files%20are%20given.&text=The%20program%20accepts%20the%20following,Also%20see%20Common%20options.)
+
+[**Download Assets**](https://drive.google.com/drive/folders/1X6AAoaiI9jqDXz7E3UDr_cHB76XzIivE?usp=sharing) 
+
 ## Contents
 
 - [AOSP](#aosp)

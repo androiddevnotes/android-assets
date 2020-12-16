@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Android Assets Count badge" src="https://badgen.net/badge/Apps/5125?color=0984e3"/></a>
+  <a href="#"><img alt="Android Assets Count badge" src="https://badgen.net/badge/Assets/5125?color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/learn-jetpack-compose-android/master/assets/android.svg&color=3ddc84"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
 </p>

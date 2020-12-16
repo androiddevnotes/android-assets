@@ -10,7 +10,7 @@
 :seedling: [**Contributors**](#seedling-contributors)
 
 
-## [AOSP](aosp/README.md)
+## [AOSP](../aosp/README.md)
 
 - Title: Android Open Source Project
 
@@ -20,9 +20,9 @@
 
 - Asset Count: 1190
 
-- [**See all AOSP assets**](aosp/README.md)
+- [**See all AOSP assets**](../aosp/README.md)
 
-## [Android Developers](android-developer/README.md)
+## [Android Developers](../android-developer/README.md)
 
 - Title: Android Developers
 
@@ -30,9 +30,9 @@
 
 - Asset Count: 2416
 
-- [**See all Android Developers assets**](android-developer/README.md)
+- [**See all Android Developers assets**](../android-developer/README.md)
 
-## [Android Studio](android-studio-ux-assets/README.md)
+## [Android Studio](../android-studio-ux-assets/README.md)
 
 - Title: Android Studio
 
@@ -44,7 +44,7 @@
 
 - Asset Count: 1519
 
-- [**See all Android Studio assets**](android-studio-ux-assets/README.md)
+- [**See all Android Studio assets**](../android-studio-ux-assets/README.md)
 
 # All
 
@@ -41079,7 +41079,7 @@ Source: https://github.com/androiddevnotes/android-assets/blob/main/android-stud
 
 ## :memo: Contributing
 
-See [contributing.md](contributing.md)
+See [contributing.md](../contributing.md)
 
 ## :seedling: Contributors
 

@@ -64,7 +64,7 @@ Tools that helped in the process: [Visual Studio Code](https://code.visualstudio
 
 <br>
 
-- Replace the path till `../developer.android.com` with `https://developer.android.com/`
+- Replace the path till `..\developer.android.com` with `https://developer.android.com/`
 
 <br>
 

@@ -54,7 +54,7 @@ Tools that helped in the process: [Everything](https://www.voidtools.com/)
 
 ## VSCode arranging content
 
-Tools that helped in the process: [Visual Studio Code](https://code.visualstudio.com/)
+Tools that helped in the process: [Visual Studio Code](https://code.visualstudio.com/), [paste](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#:~:text=paste%20writes%20to%20standard%20output,no%20input%20files%20are%20given.&text=The%20program%20accepts%20the%20following,Also%20see%20Common%20options.)
 
 - Create a new file with any extension like `.md` and paste the earlier copied content from Everything and name it as `path.md` for example.
 

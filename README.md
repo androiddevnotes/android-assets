@@ -25,7 +25,7 @@ Assets include PNG, JPG, SVG, GIF, WEBP files for now.
 
 The repository was created to see the entire catalog of Android Assets used in the official documentation. There are some few many hidden gems.
 
-Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [regex](https://en.wikipedia.org/wiki/Regular_expression), [git](https://git-scm.com/), [Visual Studio Code](https://code.visualstudio.com/), [paste](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#:~:text=paste%20writes%20to%20standard%20output,no%20input%20files%20are%20given.&text=The%20program%20accepts%20the%20following,Also%20see%20Common%20options.)
+Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [regex](https://en.wikipedia.org/wiki/Regular_expression), [git](https://git-scm.com/), [Everything](https://www.voidtools.com/), [Visual Studio Code](https://code.visualstudio.com/), [paste](https://www.gnu.org/software/coreutils/manual/html_node/paste-invocation.html#:~:text=paste%20writes%20to%20standard%20output,no%20input%20files%20are%20given.&text=The%20program%20accepts%20the%20following,Also%20see%20Common%20options.)
 
 [**Download Assets**](https://drive.google.com/drive/folders/1X6AAoaiI9jqDXz7E3UDr_cHB76XzIivE?usp=sharing) 
 

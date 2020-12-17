@@ -29,6 +29,8 @@ Tools that helped in the process: [Wget](https://www.gnu.org/software/wget/), [r
 
 [**Download Assets**](https://drive.google.com/drive/folders/1X6AAoaiI9jqDXz7E3UDr_cHB76XzIivE?usp=sharing) 
 
+[**Instructions on how this repository was created**](instructions.md) 
+
 ## Contents
 
 - [AOSP](#aosp)

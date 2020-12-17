@@ -4,11 +4,13 @@
 
 # Steps
 
+If you have a better way to accomplish the same task with more ease, please create an issue or send a PR on this file and add your steps/instructions below.
+
 <br>
 
 ## Command-line
 
-Recommended to use [Cmder](https://cmder.net/) or [Windows terminal with WSL](hhttps://docs.microsoft.com/en-us/windows/terminal/get-started) if you are on Windows.
+Recommended to use [Cmder](https://cmder.net/) or [Windows terminal with WSL](https://docs.microsoft.com/en-us/windows/terminal/get-started) if you are on Windows.
 
 <br>
 
